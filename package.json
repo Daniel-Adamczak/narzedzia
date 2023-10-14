@@ -1,0 +1,21 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "trelemorele": "node addTwoNumbers 60 60",
+    "test": "echo 'czesc to ja'",
+    "build": "parcel build src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^4.4.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.10.0"
+  }
+}
